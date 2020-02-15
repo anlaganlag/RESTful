@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="897f1090-511c-4c2f-8146-421a0f19fe06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/gal.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/admin.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/apps.py" afterDir="false" />
@@ -12,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/tests.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st/library" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st/library/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library/Pipfile" afterDir="false" />
@@ -19,8 +19,12 @@
       <change beforePath="$PROJECT_DIR$/1st/library/library/library/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library/library/library/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st/library/library/library/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library/library/library/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st/library/library/library/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library/library/library/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3rd/blogapi/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/blog_proect/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/blog_proect/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/blog_proect/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/blog_proect/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/posts/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/posts/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/posts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/posts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/posts/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +106,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/1st/code" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="207" y="161" width="802" height="679" key="#Notifications" timestamp="1581574538540">
@@ -116,10 +123,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="216" y="122" width="732" height="826" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581665166227" />
-    <state x="734" y="281" width="426" height="486" key="FileChooserDialogImpl" timestamp="1581670080121">
+    <state x="734" y="281" width="426" height="486" key="FileChooserDialogImpl" timestamp="1581749985028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="734" y="281" width="426" height="486" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581670080121" />
+    <state x="734" y="281" width="426" height="486" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581749985028" />
     <state width="1376" height="260" key="GridCell.Tab.0.bottom" timestamp="1581517627433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -136,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1376" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581517627433" />
-    <state x="456" y="155" width="1007" height="732" key="SettingsEditor" timestamp="1581690944455">
+    <state x="120" y="172" width="1007" height="732" key="SettingsEditor" timestamp="1581753669197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="456" y="155" width="1007" height="732" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581690944455" />
+    <state x="120" y="172" width="1007" height="732" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581753669197" />
     <state x="0" y="220" width="1266" height="630" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581680144607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
