@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="897f1090-511c-4c2f-8146-421a0f19fe06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/gal.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/admin.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/apps.py" afterDir="false" />
@@ -11,7 +12,6 @@
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/tests.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1st/library/library/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st/library" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st/library/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library/Pipfile" afterDir="false" />
@@ -19,8 +19,9 @@
       <change beforePath="$PROJECT_DIR$/1st/library/library/library/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library/library/library/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st/library/library/library/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library/library/library/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1st/library/library/library/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/1st/library/library/library/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/blog_proect/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/blog_proect/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/blog_proect/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/blog_proect/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rd/blogapi/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rd/blogapi/blog_proect/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/3rd/blogapi/blog_proect/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/desktop/exam" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
